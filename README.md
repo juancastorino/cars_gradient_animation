@@ -1,4 +1,6 @@
-# Car Gradient Animation (flutter 2, null safety ON, no packages)
+# Car Gradient Animation 
+
+(flutter 2, null safety ON, no packages)
 
 I use as inspiration this desing:
 [Dribble: Cars-Encyclopedia-Interaction](https://dribbble.com/shots/5845145-Cars-Encyclopedia-Interaction)
