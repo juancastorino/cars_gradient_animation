@@ -92,6 +92,7 @@ class _TimeLineState extends State<TimeLine> with TickerProviderStateMixin {
                     child: Container(
                       //padding: EdgeInsets.symmetric(horizontal: 20),
                       child: GestureDetector(
+                        // TODO: Remove OnTap, add onVerticalDrag... functionality
                         onTap: () {
                           isOpen = !isOpen;
                           if (isOpen) {
